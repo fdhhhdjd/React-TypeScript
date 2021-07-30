@@ -5,9 +5,14 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://itvn.blog/wp-content/uploads/2020/07/Top-50-h%C3%ACnh-n%E1%BB%81n-m%C3%A1y-t%C3%ADnh-4k-%C4%91%E1%BA%B9p-v%C3%A0-ch%E1%BA%A5t-l%C6%B0%E1%BB%A3ng-nh%E1%BA%A5t-scaled.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+

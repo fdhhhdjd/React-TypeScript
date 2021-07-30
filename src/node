@@ -1,0 +1,6 @@
+typeof:Toán tử typeof trả về một chuỗi chỉ ra kiểu của toán hạng không được đánh giá.
+
+  //  Thực thi các tác vụ bất đồng bộ ở đây, và gọi `resolve(result)` khi tác
+  // vụ hoàn thành. Nếu xảy ra lỗi, gọi đến `reject(error)`. (void 0 la undefined.)
+
+  2 || TOAN TU HOAC CHINH XAC NHAT(QUA BEN TopmovieReducer XEM)
